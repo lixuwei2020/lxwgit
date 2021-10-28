@@ -20,6 +20,7 @@ namespace GitTest
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 0;
+            i = 1;
         }
     }
 }
